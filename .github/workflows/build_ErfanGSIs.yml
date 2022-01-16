@@ -15,9 +15,9 @@ on:
     
 env:
   ROM_URL:https://firmware.meizu.com/Firmware/Flyme/meizu18X/9.2.3.2/cn/20211202045911/25302566/update.zip
-  ROM_NAME: Flyme
-  BUILD_TYPE: AB
-  TZ: Asia/Shanghai
+  ROM_NAME:https://firmware.meizu.com/Firmware/Flyme/meizu18X/9.2.3.2/cn/20211202045911/25302566/update.zip
+  BUILD_TYPE:AB
+  TZ:Asia/Shanghai
 
 jobs:
   build:
